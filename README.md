@@ -1,1 +1,1 @@
-# Honors-Project---Find-your-class-
+# Honors project | Find your class!
