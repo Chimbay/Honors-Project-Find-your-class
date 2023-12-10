@@ -32,3 +32,7 @@ In the broader context, my project focuses on crafting a simple and intuitive di
 ## What do I plan for the future?
 
 In the future, I plan on expanding this project to be able to handle multiple floors and have a proper node pathfinding algorithm that could find the nearest path more efficiently, especially when mutliple forms of travel are presented. Later on, I hope that I could expand this idea more somewhere.
+
+## Additional information
+
+Google site of the project: [here](http://www.google.fr/ "Named link title")
