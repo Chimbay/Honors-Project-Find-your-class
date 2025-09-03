@@ -35,4 +35,4 @@ In the future, I plan on expanding this project to be able to handle multiple fl
 
 ## Additional information
 
-Google site of the project: [here](http://www.google.fr/ "Named link title")
+Google site of the project: [here](https://sites.google.com/view/whereismyclass/home)
